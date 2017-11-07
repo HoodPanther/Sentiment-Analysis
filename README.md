@@ -11,7 +11,7 @@ A python script written in Jupyter Notebook for data visualization, data analysi
 
 **Setup/ How to use the notebook**
 
-Get the tokens/keys by registering at [Twitter Api](https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens)
+Get the tokens/keys by registering at [Twitter Api](https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens)and replace the empty string with those credentials.
 
 ```
 ACCESS_TOKEN_KEY      =    ' '
